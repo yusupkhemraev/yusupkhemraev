@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Backend Developer at MegaFon<br>💬 Ask me about Python
+🔭 Backend Developer<br>💬 Ask me about Python
 
 
 ## 🌐 Socials:
